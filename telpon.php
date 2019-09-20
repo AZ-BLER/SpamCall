@@ -11,8 +11,9 @@ function send($phone){
         curl_close($ch);
                 echo $asw."\n";
 }
-echo "\e[1;92mCreated by ; MiSetya\n\n";
-echo "Team ; Termux Noob\n\n";
+echo "\e[1;92mCreated by ; Azbler\n\n";
+echo "Team ; Bler Squad\n\n";
+echo " Supported ; Dhanbler & Afikbler\n\n";
 echo "NOTE! Limit 3× telpon setiap 1 nomor\n\n";
 echo "Nomor target\nMasukin nomornya (ex;08xxx) : ";
 $nomor = trim(fgets(STDIN));
